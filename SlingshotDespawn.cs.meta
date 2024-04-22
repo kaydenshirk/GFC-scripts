@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7b224b92920ebce4f8be82640c0837f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SlingshotPrefab: {fileID: 8485431341213783414, guid: 57517deba6661f54289b23068e4d7007, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
